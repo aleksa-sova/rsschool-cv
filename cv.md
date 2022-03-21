@@ -49,3 +49,13 @@ return a * b<br />
 - GITSchool - web development marathon, 2020
 - Restart Academy - freelance from scratch, 2020
 - RS School - JavaScript/Front-end 2021-2022
+
+## Projects
+
+1. Tnis CV
+2. Random-Portfolio
+3. Random-Game
+
+## Languages
+
+**English - A1** (in the process of increasing)
