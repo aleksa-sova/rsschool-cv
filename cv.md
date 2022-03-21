@@ -38,3 +38,14 @@ function multiply(a, b) {<br />
 return a * b<br />
 }<br />
 ```
+
+## Education
+
+**University:** Togliatti State University, Social Pedagogy
+
+**Courses:**
+
+- GoIt - Front-end, website development, marathon, 2020
+- GITSchool - web development marathon, 2020
+- Restart Academy - freelance from scratch, 2020
+- RS School - JavaScript/Front-end 2021-2022
