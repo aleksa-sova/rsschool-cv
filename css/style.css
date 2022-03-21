@@ -1,0 +1,251 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+.body {
+  background: #f5f7fa;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  padding-left: 20px;
+  padding-right: 20px;
+  font-family: Montserrat;
+}
+
+header {
+  margin-bottom: 50px;
+  display: flex;
+  justify-content: center;
+}
+
+.wrapper {
+  background: #ffffff;
+  display: flex;
+  max-width: 1200px;
+  margin: 0 auto;
+  box-shadow: 5px 9px 20px rgba(0, 0, 0, 0.15);
+  border-radius: 15px;
+}
+
+.sidebar {
+  background: #d6adb1;
+  width: 370px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  border-radius: 15px;
+}
+
+.my-photo {
+  width: 270px;
+  border-radius: 100px;
+  box-shadow: 0 0 7px #666;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.contacts-container {
+  margin-top: 60px;
+  margin-left: 40px;
+  margin-right: 40px;
+}
+
+.contacts-title {
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 24px;
+  color: #000000;
+  margin-bottom: 20px;
+}
+
+.contacts-link-type {
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 24px;
+  color: #000000;
+  margin-right: 10px;
+}
+
+.contacts-link {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  color: #000000;
+}
+
+.skill-item {
+  color: #000000;
+}
+
+.skill-container {
+  margin-top: 55px;
+  margin-left: 40px;
+  margin-right: 40px;
+}
+
+.skill-title {
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 24px;
+  color: #000000;
+  margin-bottom: 20px;
+}
+
+.skills-item {
+  color: #000000;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  margin-left: 15px;
+}
+
+.skills-text {
+  color: #000000;
+}
+
+.about-me-container {
+  padding-left: 90px;
+  padding-right: 90px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.name {
+  font-size: 45px;
+  font-weight: 700;
+  line-height: 89px;
+  margin-bottom: 65px;
+}
+
+.navigation {
+  color: #000000;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 24px;
+  margin-top: 24px;
+}
+
+.nav_link {
+  color: #000000;
+  text-decoration: none;
+}
+
+.nav_link:hover {
+  font-weight: bold;
+  box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25);
+}
+
+.info-container {
+  margin-bottom: 65px;
+  margin-top: 24px;
+}
+
+.description {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  margin-top: 24px;
+}
+
+.code-example {
+  margin-bottom: 65px;
+}
+
+.code {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  margin-top: 24px;
+}
+
+.education {
+  margin-bottom: 65px;
+}
+
+.university-title {
+  margin-bottom: 24px;
+  margin-top: 24px;
+}
+
+.university {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+}
+
+.courses-title {
+  margin-bottom: 24px;
+}
+
+.courses {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  margin-top: 24px;
+}
+
+.projects-title {
+  margin-bottom: 65px;
+}
+
+.projects {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  margin-top: 24px;
+  color: #000000;
+  text-decoration: none;
+}
+
+.languages-title {
+  margin-bottom: 65px;
+}
+
+.languages {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  margin-top: 24px;
+}
+
+.my-footer {
+  display: flex;
+  justify-content: space-around;
+}
+
+.year {
+  font-size: 24px;
+}
+
+footer {
+  margin-top: 50px;
+}
+
+.topbutton {
+  width: 30px;
+  border: 2px solid #ccc;
+  background: #f7f7f7;
+  text-align: center;
+  padding: 10px;
+  position: fixed;
+  bottom: 50px;
+  right: 50px;
+  cursor: pointer;
+  color: #333;
+  font-family: verdana;
+  font-size: 12px;
+  border-radius: 5px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  -khtml-border-radius: 5px;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.topbutton:hover {
+  background-color: #d6adb1;
+}
